@@ -22,6 +22,6 @@
 Electron ikkunan pitäisi aueta automaattisesti. Loki tiedostot voi ladata painamalla niitä alhaalta, tai niitä voi tarkastella "logs" kansiosta projektin sisältä.
 
 
-Ensin ohjelma hakee kaikki tuotetiedot STK:lta ja tallentaa ne "full-data" tiedostoon. Sitten se poimii tuotekoodit niistä tuotetiedoista, ja hakee kaikki päivitetyt tuotetiedot Legrandin API:sta. Nämä tuotetiedot se tallentaa raakana tiedostoon legrand_raw_products. Ja sitten mäppäyksen jälkeen tiedostoon legrand_products_mapped tiedostoon. 
+Ensin ohjelma hakee kaikki tuotetiedot STK:lta ja tallentaa ne "full-data" tiedostoon. Sitten se poimii tuotekoodit niistä tuotetiedoista, ja hakee kaikki päivitetyt tuotetiedot Legrandin API:sta. Nämä tuotetiedot se tallentaa raakana tiedostoon legrand_raw_products. Ja sitten mäppäyksen jälkeen tiedostoon legrand_products_mapped. 
 
 Kaikki tuotteet, joita ei löytynyt Legrandin API:sta tallentuu tiedostoon legrand_not_found_ids. Ja kaikki tuotteet, joille ei löytynyt mitään kuvia tai dokumentteja se tallentaa tiedostoon legrand_removed_no_documents. 
