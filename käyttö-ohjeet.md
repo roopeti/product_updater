@@ -5,7 +5,7 @@
 
 <img width="435" height="103" alt="image" src="https://github.com/user-attachments/assets/6cb26881-9b66-4b9f-ab5f-f719fe38c11a" />
 
-4. Navigoi oikeaan directoryyn:
+4. Navigoi oikeaan directoryyn (mihin ikinä oletkin tallentanut projektin):
 <img width="518" height="36" alt="image" src="https://github.com/user-attachments/assets/17118c80-0465-4e13-bd1f-2072baa6d1ea" /> 
 
 
