@@ -2,11 +2,9 @@
 
 1. Lataa [Node.js LTS](https://nodejs.org/en)
 2. Varmista, että node ja npm on olemassa: terminaaliin node -v ja npm -v. ks kohta 4
-   CMD toimii ihan hyvin tähän tarkoitukseen.
 
-   
 <img width="435" height="103" alt="image" src="https://github.com/user-attachments/assets/6cb26881-9b66-4b9f-ab5f-f719fe38c11a" />
-
+CMD toimii ihan hyvin tähän tarkoitukseen.
 
 4. Navigoi oikeaan directoryyn:
 <img width="518" height="36" alt="image" src="https://github.com/user-attachments/assets/17118c80-0465-4e13-bd1f-2072baa6d1ea" /> 
