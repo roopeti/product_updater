@@ -29,4 +29,7 @@ Ensin ohjelma hakee kaikki tuotetiedot STK:lta ja tallentaa ne "full-data" tiedo
 Sitten se poimii tuotekoodit niistä tuotetiedoista <img width="709" height="20" alt="image" src="https://github.com/user-attachments/assets/80002b17-8473-4718-9fce-48cf28d38bac" />
 , ja hakee kaikki päivitetyt tuotetiedot Legrandin API:sta. Nämä tuotetiedot se tallentaa raakana tiedostoon legrand_raw_products. Ja sitten mäppäyksen jälkeen tiedostoon legrand_products_mapped. 
 
+<img width="398" height="132" alt="image" src="https://github.com/user-attachments/assets/d1ca329c-3f8d-4908-946e-065427e8b291" />
+
+
 Kaikki tuotteet, joita ei löytynyt Legrandin API:sta tallentuu tiedostoon legrand_not_found_ids. Ja kaikki tuotteet, joille ei löytynyt mitään kuvia tai dokumentteja se tallentaa tiedostoon legrand_removed_no_documents. 
