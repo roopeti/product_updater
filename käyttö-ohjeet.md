@@ -23,6 +23,7 @@ Electron ikkunan pitäisi aueta automaattisesti. Loki tiedostot voi ladata paina
 
 
 Ensin ohjelma hakee kaikki tuotetiedot STK:lta ja tallentaa ne "full-data" tiedostoon.
+
 <img width="322" height="318" alt="image" src="https://github.com/user-attachments/assets/8e9791fd-9f60-4f2d-b318-33d4ebffa63a" />
 
 Sitten se poimii tuotekoodit niistä tuotetiedoista <img width="709" height="20" alt="image" src="https://github.com/user-attachments/assets/80002b17-8473-4718-9fce-48cf28d38bac" />
