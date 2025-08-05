@@ -4,7 +4,6 @@
 2. Varmista, että node ja npm on olemassa: terminaaliin node -v ja npm -v. ks kohta 4
 
 <img width="435" height="103" alt="image" src="https://github.com/user-attachments/assets/6cb26881-9b66-4b9f-ab5f-f719fe38c11a" />
-CMD toimii ihan hyvin tähän tarkoitukseen.
 
 4. Navigoi oikeaan directoryyn:
 <img width="518" height="36" alt="image" src="https://github.com/user-attachments/assets/17118c80-0465-4e13-bd1f-2072baa6d1ea" /> 
@@ -16,7 +15,7 @@ CMD toimii ihan hyvin tähän tarkoitukseen.
 ## 5. Configuraatio
    Avaa config.js, esim vscodella tai vastaavalla ohjelmalla, jolla voi editoida. Varmista, että käyttäjätunnus, salasana, autentikaatio Legrand API:hin ja API_BASE:t ovat oikein.
 
-6. Aloita aplikaatio: npm start
+6. Aloita aplikaatio: npm start. CMD toimii ihan hyvin tähän tarkoitukseen.
 <img width="457" height="150" alt="image" src="https://github.com/user-attachments/assets/06bbd0d7-874f-4897-bd3a-ab503146327b" />
 
 
