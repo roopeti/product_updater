@@ -33,3 +33,10 @@ Sitten se poimii tuotekoodit niistä tuotetiedoista <img width="709" height="20"
 
 
 Kaikki tuotteet, joita ei löytynyt Legrandin API:sta tallentuu tiedostoon legrand_not_found_ids. Ja kaikki tuotteet, joille ei löytynyt mitään kuvia tai dokumentteja se tallentaa tiedostoon legrand_removed_no_documents. 
+
+
+7. Paina update all nappia, jos haluat päivittää kaikkien tuotteiden tiedot.
+
+<img width="568" height="383" alt="image" src="https://github.com/user-attachments/assets/9e9fe4ac-9c6f-4d71-aaf3-e02f1bd9a066" />
+
+Napin painamisen jälkeen saatta mennä noin minuutti, ennen kuin tuotetiedot alkaa päivittyä. 
