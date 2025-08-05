@@ -1,5 +1,7 @@
 # Step-by-Step Ohjeet
 
+Ihan ensimmäiseksi unzippaa projekti haluamaasi paikkaan
+
 1. Lataa [Node.js LTS](https://nodejs.org/en)
 2. Varmista, että npm on olemassa: terminaaliin node -v ja npm -v. 
 
