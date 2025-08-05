@@ -9,7 +9,7 @@
 <img width="518" height="36" alt="image" src="https://github.com/user-attachments/assets/17118c80-0465-4e13-bd1f-2072baa6d1ea" /> 
 
 
-5. Asenna riippuvuudet: npm install
+5. Asenna riippuvuudet: npm install. Tämä antaa jonkin näköisiä varoituksia todennäköisesti, mutta niillä ei väliä. 
 <img width="458" height="161" alt="image" src="https://github.com/user-attachments/assets/b4f62cc3-2e99-4ea1-9523-b7f3858793c1" />
 
 ## 5. Configuraatio
