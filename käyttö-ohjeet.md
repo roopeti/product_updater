@@ -17,6 +17,8 @@
 
 6. Aloita aplikaatio: npm start
 <img width="457" height="150" alt="image" src="https://github.com/user-attachments/assets/06bbd0d7-874f-4897-bd3a-ab503146327b" />
+
+
 Electron ikkunan pitäisi aueta automaattisesti. Loki tiedostot voi ladata painamalla niitä alhaalta, tai niitä voi tarkastella "logs" kansiosta projektin sisältä.
 
 
