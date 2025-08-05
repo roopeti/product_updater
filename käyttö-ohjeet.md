@@ -39,4 +39,4 @@ Kaikki tuotteet, joita ei löytynyt Legrandin API:sta tallentuu tiedostoon legra
 
 <img width="568" height="383" alt="image" src="https://github.com/user-attachments/assets/9e9fe4ac-9c6f-4d71-aaf3-e02f1bd9a066" />
 
-Napin painamisen jälkeen saatta mennä noin minuutti, ennen kuin tuotetiedot alkaa päivittyä. 
+Napin painamisen jälkeen saattaa mennä noin minuutti, ennen kuin tuotetiedot alkaa päivittyä. 
