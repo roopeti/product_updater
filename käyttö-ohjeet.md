@@ -12,7 +12,7 @@
 4. Asenna riippuvuudet: npm install
 <img width="458" height="161" alt="image" src="https://github.com/user-attachments/assets/b4f62cc3-2e99-4ea1-9523-b7f3858793c1" />
 
-5. ## Configuraatio
+## 5. Configuraatio
    Avaa config.js, esim vscodella tai vastaavalla ohjelmalla, jolla voi editoida. Varmista, että käyttäjätunnus, salasana, autentikaatio Legrand API:hin ja API_BASE:t ovat oikein.
 
 6. Aloita aplikaatio: npm start
