@@ -12,5 +12,14 @@
 4. Asenna riippuvuudet: npm install
 <img width="458" height="161" alt="image" src="https://github.com/user-attachments/assets/b4f62cc3-2e99-4ea1-9523-b7f3858793c1" />
 
+5. ## Configuraatio
+   Avaa config.js, esim vscodella tai vastaavalla ohjelmalla, jolla voi editoida. Varmista, että käyttäjätunnus, salasana, autentikaatio Legrand API:hin ja API_BASE:t ovat oikein.
+
+6. Aloita aplikaatio: npm start
+<img width="457" height="150" alt="image" src="https://github.com/user-attachments/assets/06bbd0d7-874f-4897-bd3a-ab503146327b" />
+Electron ikkunan pitäisi aueta automaattisesti. Loki tiedostot voi ladata painamalla niitä alhaalta, tai niitä voi tarkastella "logs" kansiosta projektin sisältä.
 
 
+Ensin ohjelma hakee kaikki tuotetiedot STK:lta ja tallentaa ne "full-data" tiedostoon. Sitten se poimii tuotekoodit niistä tuotetiedoista, ja hakee kaikki päivitetyt tuotetiedot Legrandin API:sta. Nämä tuotetiedot se tallentaa raakana tiedostoon legrand_raw_products. Ja sitten mäppäyksen jälkeen tiedostoon legrand_products_mapped tiedostoon. 
+
+Kaikki tuotteet, joita ei löytynyt Legrandin API:sta tallentuu tiedostoon legrand_not_found_ids. Ja kaikki tuotteet, joille ei löytynyt mitään kuvia tai dokumentteja se tallentaa tiedostoon legrand_removed_no_documents. 
