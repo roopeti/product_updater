@@ -1,7 +1,7 @@
-## Adding new fields to the product updater
+# Adding new fields to the product updater
 
 
-# Documents
+## Documents
 
 All of the mapping for the functions is done in the Legrand.js file 
 The documents are mapped in the function called "mapLegrandToFullTT"
@@ -16,7 +16,7 @@ I have not labeled the specific documents, but looking at the AS-codes you can f
 
 
 
-# Info fields
+## Info fields
 
 The info fields are mapped in the function called "mapLegrandProductInfoFields"
 There is a variable that holds the TT codes for the info fields called "INFO_FIELDS", when adding new fields to the mapping make sure to add the TT codes to this variable. This always checks that atleast one of these fields is present in the final mapped file. If not the product gets removed from the file.
