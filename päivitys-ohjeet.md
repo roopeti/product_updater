@@ -4,6 +4,7 @@
 ## Documents
 
 All of the mapping for the functions is done in the Legrand.js file. 
+
 The documents are mapped in the function called "mapLegrandToFullTT".
 The documents are mapped under "//Document assets":
 
@@ -18,7 +19,8 @@ I have not labeled the specific documents, but looking at the AS-codes you can f
 
 ## Info fields
 
-The info fields are mapped in the function called "mapLegrandProductInfoFields"
+The info fields are mapped in the function called "mapLegrandProductInfoFields".
+
 There is a variable that holds the TT codes for the info fields called "INFO_FIELDS", when adding new fields to the mapping make sure to add the TT codes to this variable. This always checks that atleast one of these fields is present in the final mapped file. If none of these codes in the INFO_FIELDS variable are found for the product, it gets removed from the final file. 
 
 You would add new info fields under these:
