@@ -23,6 +23,10 @@ The info fields are mapped in the function called "mapLegrandProductInfoFields".
 
 There is a variable that holds the TT codes for the info fields called "INFO_FIELDS", when adding new fields to the mapping make sure to add the TT codes to this variable. This always checks that atleast one of these fields is present in the final mapped file. If none of these codes in the INFO_FIELDS variable are found for the product, it gets removed from the final file. 
 
+<img width="787" height="391" alt="image" src="https://github.com/user-attachments/assets/fd26b21e-0f57-4727-ac20-3567ffc8d905" />
+
+
+
 You would add new info fields under these:
 <img width="901" height="311" alt="image" src="https://github.com/user-attachments/assets/9bc22ba6-e141-4e27-a3c9-6a4a3cad2355" />
 
