@@ -3,8 +3,8 @@
 
 ## Documents
 
-All of the mapping for the functions is done in the Legrand.js file 
-The documents are mapped in the function called "mapLegrandToFullTT"
+All of the mapping for the functions is done in the Legrand.js file. 
+The documents are mapped in the function called "mapLegrandToFullTT".
 The documents are mapped under "//Document assets":
 
 <img width="765" height="695" alt="image" src="https://github.com/user-attachments/assets/9236efe5-7c29-48ec-8d70-ef646231040e" />
